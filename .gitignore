@@ -4,9 +4,12 @@
 *.egg-info
 build/
 dist/
+temp_auto_push.bat
 test.db
 .tox
 .coverage
 coverage.xml
 docs/_build
 .idea
+.gitignore
+branch_structure.json
